@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "library": [
+      ".lux/5.1/2ee87d6b41948b34cbab0266d952ebaf7fcfc52f50af65f48d29dbd07b8919cf-pgmoon@1.16.0-1/src",
+      ".lux/5.1/2f728e6c11c4d5d9af8bbc70193dfb5c0002f6bac2c5d83e04ffd6bfdf358023-argparse@0.7.1-1/src",
+      ".lux/5.1/3b11391f4e4d3d28da40f35fb971694d0afd1279e150e5f9e0e104ef33c0a245-etlua@1.3.0-1/src",
+      ".lux/5.1/4f75e3f047070b4dc9fcb7a752d8bcaac9d2614af6e8ae108eff04054ea3872c-lapis@1.17.0-1/src",
+      ".lux/5.1/535baaa2f78fe279f607d6b0592ac57ecd73947adfeab8752793ed4a80d8de22-loadkit@1.1.0-1/src",
+      ".lux/5.1/5f205a1f5dbaa1b7b398e74806ef45c1663c9f4fa37dd251803a923ab12e5609-lua-resty-redis@0.27-0/src",
+      ".lux/5.1/7f0f0fa7bb7ef81564fd00ac6b5d1e33f4ae77ef9ce1101d8f22d3468444a6a6-luasocket@3.1.0-1/src",
+      ".lux/5.1/9cb2a14d2d5a185900ead129a37720020d40f6ece0533d0fc171ed57fee5ad20-luaossl@20250929-0/src",
+      ".lux/5.1/b9d0b140ba962afd93c47978b5957bd798d3942533e9976e0edca849b9c9da59-ansicolors@1.0.2-3/src",
+      ".lux/5.1/bbc83ddcda9694e4b4246e213cc1a6fe31605fc01cd8625d960a0a1bf10616ef-date@2.2.1-1/src",
+      ".lux/5.1/e2f6f0ce73abbea1498e08f0da248d789532bd52c17e2a6e0dc98ce64dc8fedd-lua-cjson@2.1.0-1/src",
+      ".lux/5.1/fcffb449ee725e766218762eff521cdc427fc9a49b70bba515d84f0391e1a7e1-lpeg@1.1.0-2/src"
+    ]
+  }
+}
